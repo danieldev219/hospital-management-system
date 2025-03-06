@@ -121,8 +121,8 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ```bash
 # Clone and install
-git clone https://github.com/rudyapollo/avm-ayurvedic
-cd avm-ayurvedic
+git clone https://github.com/rudyapollo/hospital-management-system.git
+cd hospital-management-system
 npm install
 cd server && npm install
 cd ../client && npm install
