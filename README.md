@@ -140,7 +140,7 @@ npm run dev
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/rudyapollo/avm-ayurvedic
+   git clone https://github.com/danieldev219/avm-ayurvedic
    cd avm-ayurvedic
    ```
 
@@ -276,7 +276,7 @@ NEXT_PUBLIC_METERED_TURN_CREDENTIAL=test-metered-turn-credential
   2. Navigate to S3 and create a new bucket
   3. Configure bucket settings (e.g., region, access control)
   4. **Key Step**: Generate AWS access keys from the IAM dashboard
-  5. **CORS**: [Check this issue](https://github.com/rudyapollo/hospital-management-system/issues/6)
+  5. **CORS**: [Check this issue](https://github.com/danieldev219/hospital-management-system/issues/6)
   6. **Important**: Update your server's `.env` file with:
      ```env
      AWS_REGION=your_selected_region
@@ -415,14 +415,14 @@ stripe listen --forward-to localhost:8000/webhook
 
 <div  align="center">
    
-[![GitHub Stars](https://img.shields.io/github/stars/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=gold)](https://github.com/rudyapollo/hospital-management-system/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=blue)](https://github.com/rudyapollo/hospital-management-system/network/members)
-[![Open Issues](https://img.shields.io/github/issues-raw/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=red&label=Open%20Issues)](https://github.com/rudyapollo/hospital-management-system/issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed-raw/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=green&label=Closed%20Issues)](https://github.com/rudyapollo/hospital-management-system/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub Stars](https://img.shields.io/github/stars/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=gold)](https://github.com/danieldev219/hospital-management-system/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=blue)](https://github.com/danieldev219/hospital-management-system/network/members)
+[![Open Issues](https://img.shields.io/github/issues-raw/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=red&label=Open%20Issues)](https://github.com/danieldev219/hospital-management-system/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed-raw/sinanptm/hospital-management-system?style=for-the-badge&logo=github&color=green&label=Closed%20Issues)](https://github.com/danieldev219/hospital-management-system/issues?q=is%3Aissue+is%3Aclosed)
 </div>
 
 For additional help or issues, please open a GitHub issue or contact me through email or any links from my profile.
 
 <p align="center">
-  Made with ❤️ by rudyapollo
+  Made with ❤️ by danieldev219
 </p>
